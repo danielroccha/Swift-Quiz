@@ -1,3 +1,3 @@
 # Swift-Quiz
 
-Project created using view code instead of storyboard.
+Project created using viewcode instead of storyboard.
