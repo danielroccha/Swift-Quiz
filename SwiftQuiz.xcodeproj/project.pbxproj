@@ -101,8 +101,6 @@
 				B3225AFC25C357B400A20F6F /* Assets.xcassets */,
 				B3225AFE25C357B400A20F6F /* LaunchScreen.storyboard */,
 				B3225B0125C357B400A20F6F /* Info.plist */,
-				B3225B0825C357E100A20F6F /* ResultViewController.swift */,
-				B3225B4F25CA07E100A20F6F /* QuizViewController.swift */,
 				B3225B5825CE08E000A20F6F /* Quiz.swift */,
 				B3225B5B25CE08FB00A20F6F /* QuizManager.swift */,
 			);
@@ -130,6 +128,7 @@
 		B3225B0D25C3655200A20F6F /* Quiz */ = {
 			isa = PBXGroup;
 			children = (
+				B3225B4F25CA07E100A20F6F /* QuizViewController.swift */,
 			);
 			path = Quiz;
 			sourceTree = "<group>";
@@ -137,6 +136,7 @@
 		B3225B0E25C3655900A20F6F /* Result */ = {
 			isa = PBXGroup;
 			children = (
+				B3225B0825C357E100A20F6F /* ResultViewController.swift */,
 			);
 			path = Result;
 			sourceTree = "<group>";
